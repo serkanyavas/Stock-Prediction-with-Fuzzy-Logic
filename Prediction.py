@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 16 20:17:12 2019
-
-@author: merth
-"""
-
 import matplotlib.pylab as plt
 import pandas as pd
 import numpy as np
